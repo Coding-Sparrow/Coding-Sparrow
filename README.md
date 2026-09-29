@@ -20,6 +20,7 @@ Plugins for [Omarchy](https://omarchy.org) (Arch + Hyprland), published and veri
 
 - **[System Pulse](https://github.com/Coding-Sparrow/omarchy-systempulse)**: a system monitor for the bar in the style of iStat Menus, covering CPU, memory, disk, network, battery, and temperature. It reads `/proc` and `/sys` directly, so it needs no daemons. [Marketplace ↗](https://omarchyplugins.com/plugin.html?id=coding-sparrow.systempulse)
 - **[Cloudflare WARP](https://github.com/Coding-Sparrow/omarchy-cloudflare-warp)**: install WARP, register with Zero Trust, and toggle the VPN, all from the bar. [Marketplace ↗](https://omarchyplugins.com/plugin.html?id=coding-sparrow.cloudflare-warp)
+- **[DevKit](https://github.com/Coding-Sparrow/omarchy-devkit)**: the developer tools I reach for every day (JSON, JWT, Base64, URL, timestamps, UUIDs, hashes, case, regex and diff), one click away on the bar. It runs offline, so tokens never go to a website. Regexes run in a separate process with a time limit, so a bad pattern can't freeze the desktop. [Marketplace ↗](https://omarchyplugins.com/plugin.html?id=coding-sparrow.devkit)
 
 ## Stack
 
