@@ -1,35 +1,32 @@
-# Hi, I'm Ravat 👋
+<table>
+  <tr>
+    <td><strong>Hey, I'm Ravat</strong></td>
+    <td><a href="mailto:studious.developer@gmail.com">Email</a> · <a href="https://github.com/Coding-Sparrow?tab=repositories">Repositories</a></td>
+  </tr>
+</table>
 
-Backend engineer who loves Java, reactive systems and building tools that make the everyday developer workflow faster. When I'm not shipping APIs, I'm tinkering with my Linux desktop ([Omarchy](https://omarchy.org) + Hyprland) and writing plugins for it.
+I mostly write **Java**. Lately I've been spending more time with **TypeScript** and **QML**.
 
-### 🔧 Tech I work with
+I like **reactive, event-driven backends**. Vert.x and RxJava are where I figured out how they actually work.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=flat&logo=eclipsevertdotx&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Qt/QML](https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+I also like **tools that get out of the way**. If something takes more than a second to open, I usually want to build a faster version.
 
-### 🚀 Featured projects
+## Things I've built
 
-| Project | What it is |
-| --- | --- |
-| [**px0**](https://github.com/Coding-Sparrow/px0) | Fast, read-only browser IDE for instant code navigation and review — boots in under 1 ms, ~20 MB RAM, symbol-level navigation and deep search across huge codebases. |
-| [**omarchy-systempulse**](https://github.com/Coding-Sparrow/omarchy-systempulse) | iStat Menus-style system monitor widget for the Omarchy bar — CPU, memory, disk, network, battery, temperature. |
-| [**omarchy-cloudflare-warp**](https://github.com/Coding-Sparrow/omarchy-cloudflare-warp) | Cloudflare WARP plugin for the Omarchy bar — install, Zero Trust registration and one-click VPN toggle. |
-| [**locus-location-simulator**](https://github.com/Coding-Sparrow/locus-location-simulator) | API design for a location simulator. |
-| [**vertx-reactive**](https://github.com/Coding-Sparrow/vertx-reactive) | Exploring RxJava with Vert.x. |
+▸ **[px0](https://github.com/Coding-Sparrow/px0)** · _[JavaScript]_ · Read-only browser IDE for code review. Boots in under 1 ms, uses ~20 MB of RAM, and handles symbol navigation and deep search across large codebases.
 
-### 📊 GitHub stats
+▸ **[locus-location-simulator](https://github.com/Coding-Sparrow/locus-location-simulator)** · _[Java]_ · API design for a location simulator.
 
-![Ravat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Sparrow&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Sparrow&layout=compact&hide_border=true&theme=tokyonight)
+▸ **[vertx-reactive](https://github.com/Coding-Sparrow/vertx-reactive)** · _[Java]_ · Experiments with RxJava on top of Vert.x.
 
----
+## Tools I built for myself
 
-📫 Reach me at **studious.developer@gmail.com**
+I use **Omarchy** on Arch + Hyprland and build for it. These plugins make my bar work the way I want it to.
+
+▸ **[omarchy-systempulse](https://github.com/Coding-Sparrow/omarchy-systempulse)** · _[QML]_ · System monitor widget in the style of iStat Menus: CPU, memory, disk, network, battery, and temperature.
+
+▸ **[omarchy-cloudflare-warp](https://github.com/Coding-Sparrow/omarchy-cloudflare-warp)** · _[QML]_ · Cloudflare WARP from the bar: install, Zero Trust registration, and a one-click VPN toggle.
+
+## Stack
+
+![Java](https://img.shields.io/badge/Java-151b23?style=flat&logo=openjdk&logoColor=ED8B00) ![Vert.x](https://img.shields.io/badge/Vert.x-151b23?style=flat&logo=eclipsevertdotx&logoColor=B04AE0) ![TypeScript](https://img.shields.io/badge/TypeScript-151b23?style=flat&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-151b23?style=flat&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-151b23?style=flat&logo=python&logoColor=3776AB) ![Django](https://img.shields.io/badge/Django-151b23?style=flat&logo=django&logoColor=44B78B) ![Flutter](https://img.shields.io/badge/Flutter-151b23?style=flat&logo=flutter&logoColor=02569B) ![QML](https://img.shields.io/badge/QML-151b23?style=flat&logo=qt&logoColor=41CD52) ![Cloudflare](https://img.shields.io/badge/Cloudflare-151b23?style=flat&logo=cloudflare&logoColor=F38020) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-151b23?style=flat&logo=archlinux&logoColor=1793D1)
