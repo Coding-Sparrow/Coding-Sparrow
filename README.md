@@ -1,34 +1,28 @@
-<table>
-  <tr>
-    <td><strong>Hey, I'm Ravat</strong></td>
-    <td><a href="https://www.linkedin.com/in/ravat-tailor-43294111b/">LinkedIn</a> · <a href="https://x.com/TailorRavat">X</a> · <a href="mailto:studious.developer@gmail.com">Email</a></td>
-  </tr>
-</table>
+### Hey, I'm Ravat 👋
 
-I mostly write **Java**. Lately I've been writing more **QML**, building plugins for my desktop.
+Backend engineer. I mostly write **Java** and build **reactive, event-driven services** on [Vert.x](https://vertx.io) and [RxJava](https://github.com/ReactiveX/RxJava). I like to understand how my tools work underneath, and that often means finding where they break.
 
-I like **reactive, event-driven backends**. Vert.x and RxJava are where I figured out how they actually work.
+## 🔐 Security & open source
 
-I also dig for **security bugs** in the open source tools I rely on, and send fixes when I can.
+I read the code of tools I rely on and report what I find.
 
-## Things I've built
+- **[px0](https://github.com/px0-ai/px0)** (browser IDE for code review): I reported three vulnerabilities, and all three are fixed upstream.
+  - [Self-update downloads and runs unsigned binaries](https://github.com/px0-ai/px0/issues/46) (critical)
+  - [`/api/raw` serves workspace HTML/SVG as documents, allowing XSS](https://github.com/px0-ai/px0/issues/75), with a [patch](https://github.com/px0-ai/px0/pull/76)
+  - [No Content-Security-Policy on the local UI](https://github.com/px0-ai/px0/issues/77), with a [patch](https://github.com/px0-ai/px0/pull/78)
+- **[Vert.x](https://vertx.io)**: I wrote a [minimal reproduction](https://github.com/Coding-Sparrow/vertx-service-proxy-codegen-issue) of a service-proxy codegen bug in Vert.x 4.
 
-▸ **[locus-location-simulator](https://github.com/Coding-Sparrow/locus-location-simulator)** · _[Java]_ · API design for a location simulator.
+## 🛠️ Things I've shipped
 
-▸ **[vertx-reactive](https://github.com/Coding-Sparrow/vertx-reactive)** · _[Java]_ · Experiments with RxJava on top of Vert.x.
+Plugins for [Omarchy](https://omarchy.org) (Arch + Hyprland), published and verified on the [official plugin marketplace](https://omarchyplugins.com):
 
-## Open source contributions
-
-▸ **[px0](https://github.com/px0-ai/px0)** · _[Security]_ · Reported three vulnerabilities in the px0 IDE: [unsigned self-update](https://github.com/px0-ai/px0/issues/46), [XSS via `/api/raw`](https://github.com/px0-ai/px0/issues/75), and a [missing CSP](https://github.com/px0-ai/px0/issues/77). I sent patches for the last two ([#76](https://github.com/px0-ai/px0/pull/76), [#78](https://github.com/px0-ai/px0/pull/78)), and all three are fixed upstream.
-
-## Tools I built for myself
-
-I use **Omarchy** on Arch + Hyprland and build for it. These plugins make my bar work the way I want it to.
-
-▸ **[omarchy-systempulse](https://github.com/Coding-Sparrow/omarchy-systempulse)** · _[QML]_ · System monitor widget in the style of iStat Menus: CPU, memory, disk, network, battery, and temperature.
-
-▸ **[omarchy-cloudflare-warp](https://github.com/Coding-Sparrow/omarchy-cloudflare-warp)** · _[QML]_ · Cloudflare WARP from the bar: install, Zero Trust registration, and a one-click VPN toggle.
+- **[System Pulse](https://github.com/Coding-Sparrow/omarchy-systempulse)**: a system monitor for the bar in the style of iStat Menus, covering CPU, memory, disk, network, battery, and temperature. It reads `/proc` and `/sys` directly, so it needs no daemons. [Marketplace ↗](https://omarchyplugins.com/plugin.html?id=coding-sparrow.systempulse)
+- **[Cloudflare WARP](https://github.com/Coding-Sparrow/omarchy-cloudflare-warp)**: install WARP, register with Zero Trust, and toggle the VPN, all from the bar. [Marketplace ↗](https://omarchyplugins.com/plugin.html?id=coding-sparrow.cloudflare-warp)
 
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-151b23?style=flat&logo=openjdk&logoColor=ED8B00) ![Vert.x](https://img.shields.io/badge/Vert.x-151b23?style=flat&logo=eclipsevertdotx&logoColor=B04AE0) ![TypeScript](https://img.shields.io/badge/TypeScript-151b23?style=flat&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-151b23?style=flat&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-151b23?style=flat&logo=python&logoColor=3776AB) ![Django](https://img.shields.io/badge/Django-151b23?style=flat&logo=django&logoColor=44B78B) ![Flutter](https://img.shields.io/badge/Flutter-151b23?style=flat&logo=flutter&logoColor=02569B) ![QML](https://img.shields.io/badge/QML-151b23?style=flat&logo=qt&logoColor=41CD52) ![Cloudflare](https://img.shields.io/badge/Cloudflare-151b23?style=flat&logo=cloudflare&logoColor=F38020) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-151b23?style=flat&logo=archlinux&logoColor=1793D1)
+`Java` · `Vert.x` · `RxJava` · `Gradle` · `Python` · `Django` · `TypeScript` · `QML` · `Linux`
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/ravat-tailor-43294111b/) · [X](https://x.com/TailorRavat) · [studious.developer@gmail.com](mailto:studious.developer@gmail.com)
