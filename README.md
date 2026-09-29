@@ -5,19 +5,21 @@
   </tr>
 </table>
 
-I mostly write **Java**. Lately I've been spending more time with **TypeScript** and **QML**.
+I mostly write **Java**. Lately I've been writing more **QML**, building plugins for my desktop.
 
 I like **reactive, event-driven backends**. Vert.x and RxJava are where I figured out how they actually work.
 
-I also like **tools that get out of the way**. If something takes more than a second to open, I usually want to build a faster version.
+I also dig for **security bugs** in the open source tools I rely on, and send fixes when I can.
 
 ## Things I've built
-
-▸ **[px0](https://github.com/Coding-Sparrow/px0)** · _[JavaScript]_ · Read-only browser IDE for code review. Boots in under 1 ms, uses ~20 MB of RAM, and handles symbol navigation and deep search across large codebases.
 
 ▸ **[locus-location-simulator](https://github.com/Coding-Sparrow/locus-location-simulator)** · _[Java]_ · API design for a location simulator.
 
 ▸ **[vertx-reactive](https://github.com/Coding-Sparrow/vertx-reactive)** · _[Java]_ · Experiments with RxJava on top of Vert.x.
+
+## Open source contributions
+
+▸ **[px0](https://github.com/px0-ai/px0)** · _[Security]_ · Reported three vulnerabilities in the px0 IDE: [unsigned self-update](https://github.com/px0-ai/px0/issues/46), [XSS via `/api/raw`](https://github.com/px0-ai/px0/issues/75), and a [missing CSP](https://github.com/px0-ai/px0/issues/77). I sent patches for the last two ([#76](https://github.com/px0-ai/px0/pull/76), [#78](https://github.com/px0-ai/px0/pull/78)), and all three are fixed upstream.
 
 ## Tools I built for myself
 
