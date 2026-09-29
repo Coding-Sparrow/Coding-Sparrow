@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><strong>Hey, I'm Ravat</strong></td>
-    <td><a href="mailto:studious.developer@gmail.com">Email</a> · <a href="https://github.com/Coding-Sparrow?tab=repositories">Repositories</a></td>
+    <td><a href="https://www.linkedin.com/in/ravat-tailor-43294111b/">LinkedIn</a> · <a href="https://x.com/TailorRavat">X</a> · <a href="mailto:studious.developer@gmail.com">Email</a></td>
   </tr>
 </table>
 
