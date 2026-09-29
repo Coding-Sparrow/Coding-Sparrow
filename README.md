@@ -1,6 +1,8 @@
 ### Hey, I'm Ravat 👋
 
-Backend engineer. I mostly write **Java** and build **reactive, event-driven services** on [Vert.x](https://vertx.io) and [RxJava](https://github.com/ReactiveX/RxJava). I like to understand how my tools work underneath, and that often means finding where they break.
+I'm a **Senior Software Engineer at [VERO™](https://vero.co)**, where I work on a social network with no ads and no algorithms. Your feed shows what the people you follow post, in the order they post it.
+
+I mostly write **Java** and build **reactive, event-driven services** on [Vert.x](https://vertx.io) and [RxJava](https://github.com/ReactiveX/RxJava). I like to understand how my tools work underneath, and that often means finding where they break.
 
 ## 🔐 Security & open source
 
